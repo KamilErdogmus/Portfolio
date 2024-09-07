@@ -28,7 +28,7 @@ A personal portfolio website built with Next.js to showcase projects, skills, an
 
 ## Preview
 
-![ ](/public/assets/Portfolio-GIF.gif)
+![](/public/assets/Portfolio-GIF.gif)
 
 ## Installation
 
@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/KamilErdogmus/Portfolio.git
 ```
 
 2. Navigate to the project directory:
