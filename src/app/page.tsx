@@ -34,7 +34,7 @@ const Home = () => {
               <span className="text-accent">Kâmil ERDOĞMUŞ</span>
             </h1>
             <p className="max-w-[600px] mb-9 text-white/80">
-              I'm passionate about building seamless and
+              I&apos;m passionate about building seamless and
               innovative digital solutions, with expertise across
               a range of programming languages and cutting-edge
               technologies.

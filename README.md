@@ -30,6 +30,10 @@ A personal portfolio website built with Next.js to showcase projects, skills, an
 
 ![](/public/assets/Portfolio-GIF.gif)
 
+## Deployment
+
+The project is deployed and can be accessed [here](https://portfolio-git-main-quadriceps-projects.vercel.app/). For the project to run smoothly, please follow the installation steps below to set it up locally.The project may behave differently across different browsers.
+
 ## Installation
 
 To run the project locally, follow these steps:
